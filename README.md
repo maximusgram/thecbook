@@ -1,2 +1,3 @@
 # thecbook
-Exercises from The C book by K&amp;R
+
+Exercises from various C books
